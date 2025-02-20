@@ -9,5 +9,7 @@ public class FullName {
         
         // Print the greeting message
         System.out.println("Hello, my name is " + fullName + ".");
+        System.out.println("Hello, my name is " + fullName + ".");
+
     }
 }
